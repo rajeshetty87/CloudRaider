@@ -1,2 +1,0 @@
-sudo systemctl stop {0}
-sudo service {0} stop

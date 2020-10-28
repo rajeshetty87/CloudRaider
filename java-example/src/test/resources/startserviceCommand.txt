@@ -1,2 +1,0 @@
-sudo systemctl start {0}
-sudo service {0} start
